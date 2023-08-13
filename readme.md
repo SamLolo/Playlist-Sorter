@@ -1,5 +1,5 @@
 # Spotify Playlist Sorter
-[![wakatime](https://wakatime.com/badge/user/aa966dfd-2ee1-42d6-8b74-530c65d62ac0/project/06685a36-b494-471d-8e5d-22fa20d885b7.svg)](https://wakatime.com/badge/user/aa966dfd-2ee1-42d6-8b74-530c65d62ac0/project/06685a36-b494-471d-8e5d-22fa20d885b7)
+[![wakatime](https://wakatime.com/badge/user/aa966dfd-2ee1-42d6-8b74-530c65d62ac0/project/06685a36-b494-471d-8e5d-22fa20d885b7.svg)](https://wakatime.com/@aa966dfd-2ee1-42d6-8b74-530c65d62ac0/projects/duxxbhechp)
 
 ## About The Project
 This playlist sorter was a project during Easter 2023 to experiment with the idea of how you sort a playlist. From working with the Spotify Web API during my A-Level project in 2021/22, I knew that Spotify categorised each track using different "audio features". These are float values between 0 and 1, and are created by analysisng the waveform, ect of the tracks. You can learn more about it [here](https://developer.spotify.com/documentation/web-api/reference/get-audio-features). 
